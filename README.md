@@ -1,13 +1,9 @@
-# login-registration-react-node-js-api
+# login-registro-api: INSTRUCCIONES
 
-### back-end folder is for backend api: Login and Registration
+1. Dentro de la carpeta back-end; ejecutar comando para instalar dependecias: npm install
+2. Ejecutar comando para iniciar el servidor: npm start (esto también va a crear la base de datos en MySQL puerto 3306, configurar esto de ser necesario en el archivo config dentro de la carpeta back-end)
 
-1. make clone for back-end folder
-2. run command for install the packages: npm install
-3. run command to start the server: npm start (it will start the server and create a database)
+### Dentro de la carpeta fron-end; ejecutar los siguientes comandos
 
-### fron-end folder is for React App: Login, Registration and Dashboard
-
-1. make clone for back-end folder
-2. run command for install the packages: npm install
-3. run command to start the server: npm start (it will start the server and create a database)
+2. Ejecutar comando para instalar dependecias: npm install
+3. Ejecutar comando para iniciar el servidor: npm start 
