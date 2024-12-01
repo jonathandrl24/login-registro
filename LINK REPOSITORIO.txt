@@ -1,1 +1,1 @@
-https://github.com/jonathandrl24/login-registro
+https://github.com/jonathandrl24/login-registro-api
